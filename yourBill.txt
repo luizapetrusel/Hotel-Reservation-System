@@ -1,0 +1,10 @@
+This is your Bill:
+Name:Client{name='luiza', identityCardNumber=1234}
+City:cj
+Adress:cj
+Identity card number:1234
+Check In Date:12-12-12
+Room number:1
+Price per night:80.0
+Number of nights accomodated:2
+Total:160.0
